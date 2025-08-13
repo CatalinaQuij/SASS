@@ -1,0 +1,30 @@
+@use './variables';
+// Recuadro exclusivo para el párrafo de perfil profesional
+.professional-profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: variables.$primary-color;
+    font-family: variables.$font-stack;
+
+}
+.professional-profile .profile-box {
+    background-color: variables.$secondary-bg;
+    border: 2.5px solid variables.$accent-color;
+    border-radius: 0.8rem;
+    padding: 1.2rem 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    max-width: 600px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.professional-profile .profile-box p {
+    color: variables.$primary-color;
+    font-family: variables.$font-stack;
+    margin: 0;
+    text-align: center;
+}
