@@ -33,7 +33,7 @@ Este proyecto es una web personal donde encontrarás información profesional, h
 ## 🖥️ Demo en línea
 
 Puedes ver el sitio funcionando aquí:  
-[https://github.com/CatalinaQuij/SASS](https://github.com/CatalinaQuij/SASS)
+https://catalinaquij.github.io/SASS/
 
 > *(Reemplaza el enlace por el de GitHub Pages si tienes el deploy, por ejemplo: https://catalinaquij.github.io/SASS/ )*
 
